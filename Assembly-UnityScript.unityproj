@@ -49,7 +49,6 @@
      <Compile Include="Assets\Scripts\CreditsGUI.js" />
      <Compile Include="Assets\Scripts\FailureGUI.js" />
      <Compile Include="Assets\Scripts\TitleGUI.js" />
-     <None Include="Assets\TODO.txt" />
      <None Include="Assets\Resources\KilledEnemies.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
