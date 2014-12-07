@@ -21,6 +21,7 @@ public class PlayerShooting : MonoBehaviour {
 				Quaternion rot = Quaternion.Euler (0, 0, 180);
 				Instantiate (bulletPrefab, transform.position + new Vector3(0, -0.5f, 0), rot);
 			}
+			audio.Play ();
 		}
 		else if (Input.GetButton ("Fire2") && cooldownTimer <= 0) {
 			cooldownTimer = fireDelay;
@@ -32,6 +33,7 @@ public class PlayerShooting : MonoBehaviour {
 				Quaternion rot = Quaternion.Euler (0, 0, 90);
 				Instantiate (bulletPrefab, transform.position + new Vector3(-0.5f, 0, 0), rot);
 			}
+			audio.Play ();
 		}
 	}
 }
