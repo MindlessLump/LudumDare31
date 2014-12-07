@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyCreator.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Explosion.cs">
     <Files>
-      <File FileName="Assets\Scripts\EnemyCreator.cs" Line="128" Column="64" />
+      <File FileName="Assets\TODO.txt" Line="3" Column="52" />
+      <File FileName="Assets\Scripts\DamageHandler.cs" Line="64" Column="75" />
+      <File FileName="Assets\Scripts\EnemyCreator.cs" Line="68" Column="24" />
+      <File FileName="Assets\Scripts\Explosion.cs" Line="18" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

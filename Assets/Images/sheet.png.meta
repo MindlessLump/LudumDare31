@@ -6,6 +6,8 @@ TextureImporter:
     21300002: EnemyBullet
     21300004: PlayerBullet
     21300006: Enemy01
+    21300008: Explosion01
+    21300010: Explosion02
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -86,6 +88,26 @@ TextureImporter:
         height: 32
       alignment: 9
       pivot: {x: .5, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion01
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 564
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion02
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 544
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
